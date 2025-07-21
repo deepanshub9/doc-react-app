@@ -27,10 +27,20 @@ The project follows a common React file structure:
    cd doc-react-app
 
 2. **Install dependencies:**
+<<<<<<< Updated upstream
     ```bash
    git clone https://github.com/deepanshub9/doc-react-app.git
     
     npm install 
+=======
+
+   ```bash
+   git clone https://github.com/deepanshub9/doc-react-app.git
+
+   npm install
+   ```
+
+>>>>>>> Stashed changes
 3. **Running the App:**
      `npm start` 
    
@@ -54,5 +64,11 @@ The `map` method allows for dynamic rendering of multiple components based on da
 ### Styling: 
 The project uses CSS for styling.
 
+<<<<<<< Updated upstream
 ### Animations: 
 Framer Motion is used to add animations and interactive effects.
+=======
+### Animations:
+
+Framer Motion is used to add animations and interactive amazing.
+>>>>>>> Stashed changes
